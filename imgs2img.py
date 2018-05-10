@@ -83,7 +83,8 @@ def getMinRgbSqrt(list1,var):
             
             
         
-        
+print('success');
+exit();        
 
 
 
